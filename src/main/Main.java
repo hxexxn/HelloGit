@@ -9,6 +9,10 @@ public class Main {
 		System.out.println("두번째 원격 저장 테스트");
 		
 		
+		System.out.println("팀장 새 코드 시작");
+		System.out.println("팀장 새 코드 끝");
+		
+		
 	}
 
 }
