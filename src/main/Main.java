@@ -1,6 +1,7 @@
 package main;
 
 import calc.Calculator;
+import calc.Substract;
 
 public class Main {
 
@@ -26,6 +27,13 @@ public class Main {
 		int addResult = cal.add(1, 2);
 		
 		System.out.println(addResult);
+		
+		Substract sub = new Substract();
+		
+		int result = sub.subs(3, 2);
+		
+		System.out.println(result);
+		
 		
 	}
 
