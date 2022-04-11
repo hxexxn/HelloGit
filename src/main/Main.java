@@ -35,6 +35,10 @@ public class Main {
 		System.out.println(result);
 		
 		
+		
+		System.out.println("집에서 작업 시작");
+		System.out.println("집에서 작업 끝");
+		
 	}
 
 }
